@@ -2,10 +2,10 @@
 name = "gosub-engine"
 version = "0.1.0"
 edition = "2021"
-authors = ["Joshua Thijssen <jaytaph@deadcode.nl>"]
+authors = ["Mishy8er69"]
 
-description = "html5 browser engine"
-license = "MIT"
+description =false
+license = 	"CC-BY-NC-2.5"
 repository = "https://github.com/jaytaph/gosub-browser"
 readme = "README.MD"
 keywords = ["html5", "parser"]
